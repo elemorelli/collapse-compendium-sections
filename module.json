@@ -1,0 +1,31 @@
+{
+  "id": "collapse-compendium-sections",
+  "title": "Collapse Compendium Sections",
+  "description": "A simple module that adds a button to collapse/expand the sidebar's compendium sections",
+  "version": "1.0.0",
+
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+
+  "esmodules": ["scripts/module.js"],
+  "styles": ["styles/module.css"],
+
+  "authors": [
+    {
+      "name": "Ele Morelli",
+      "url": "https://github.com/elemorelli",
+      "email": "dev@elemorelli.com"
+    }
+  ],
+
+  "url": "https://github.com/elemorelli/collapse-compendium-sections",
+  "manifest": "https://github.com/elemorelli/collapse-compendium-sections/releases/latest/download/module.json",
+  "download": "https://github.com/elemorelli/collapse-compendium-sections/releases/latest/download/module.zip",
+  "license": "LICENSE.md",
+  "readme": "README.md",
+  "bugs": "https://github.com/elemorelli/collapse-compendium-sections/issues",
+  "changelog": ""
+}

@@ -1,0 +1,22 @@
+.compendium-type .title {
+  display: flex;
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--color-text-light-highlight);
+}
+
+.compendium-type .title h3 {
+  flex-grow: 1;
+  border: none;
+  background: none;
+}
+
+.compendium-type .title button {
+  width: 30px;
+  border: 1px solid var(--color-border-dark-4);
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--color-text-light-highlight);
+}
+
+.compendium-list.collapsed {
+  display: none;
+}
